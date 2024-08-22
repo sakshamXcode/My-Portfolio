@@ -1,6 +1,5 @@
 import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
-
 import { styles } from "../styles";
 import { github } from "../assets";
 import { SectionWrapper } from "../hoc";
@@ -79,11 +78,15 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          Following projects showcases my skills and experience through
-          real-world examples of my work. Each project is briefly described with
-          links to code repositories and live demos in it. It reflects my
-          ability to solve complex problems, work with different technologies,
-          and manage projects effectively.
+        While I'm still in the early stages of my development 
+        journey, the projects I've worked on demonstrate the 
+        skills and knowledge I've gained through hands-on learning. 
+        These projects are inspired by coursework and tutorials from
+         platforms like Udemy and YouTube, where I've built practical 
+         applications to reinforce my understanding of various technologies. 
+         Each project reflects my commitment 
+        to learning, my ability to implement 
+        concepts in real-world scenarios, and my growing proficiency as a developer.
         </motion.p>
       </div>
 
