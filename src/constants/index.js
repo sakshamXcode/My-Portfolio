@@ -117,57 +117,59 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "School of Computer Engineering",
+    company_name: `Kalinga Institute of Industrial Technology, Bhubaneswar.`,
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "September 2022 - July 2026",
+    cgpa:"CGPA:8.85",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+          "Studying core computer science subjects including Data Structures, Algorithms, and Database Management Systems.",
+          "Engaging in hands-on projects involving web development, software engineering, and network security.",
+          "Collaborating with peers on team projects, focusing on software development using React.js and other modern technologies.",
+          "Applying theoretical knowledge to practical problems through labs and coursework, enhancing skills in programming and problem-solving.",
+          "Participating in hackathons & internships to gain real-world experience and industry insights.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Senior Secondary School",
+    company_name: "M.G Convent School, Lucknow.",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "April 2020 - May 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Studied core subjects including Mathematics, Physics, Chemistry, and Computer Science, achieving a strong academic performance.",
+      "Participated in various science and technology competitions, demonstrating a keen interest in computer science and engineering.",
+      "Engaged in extracurricular activities such as debating and public speaking, enhancing communication and critical thinking skills.",
     ],
   },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  // {
+  //   title: "Web Developer",
+  //   company_name: "Shopify",
+  //   icon: shopify,
+  //   iconBg: "#383E56",
+  //   date: "Jan 2022 - Jan 2023",
+  //   percentage: "Percentage: 90.6%",
+  //   points: [
+  //     "Developing and maintaining web applications using React.js and other related technologies.",
+  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Participating in code reviews and providing constructive feedback to other developers.",
+  //   ],
+  // },
+  // {
+  //   title: "Full stack Developer",
+  //   company_name: "Meta",
+  //   icon: meta,
+  //   iconBg: "#E6DEDD",
+  //   date: "Jan 2023 - Present",
+  //   points: [
+  //     "Developing and maintaining web applications using React.js and other related technologies.",
+  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Participating in code reviews and providing constructive feedback to other developers.",
+  //   ],
+  // },
 ];
 
 const testimonials = [
@@ -187,14 +189,14 @@ const testimonials = [
     company: "KIIT",
     image: "https://t4.ftcdn.net/jpg/07/65/15/75/240_F_765157555_muSlnN0OtEeo2lfIm2MmE8rYB3pU26G4.jpg",
   },
-  // {
-  //   // testimonial:
-  //   //   "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-  //   // name: "Lisa Wang",
-  //   // designation: "CTO",
-  //   // company: "456 Enterprises",
-  //   // image: "https://randomuser.me/api/portraits/women/6.jpg",
-  // },
+  {
+    testimonial:
+      "I endorse all the skills he has, I have personally seen his learning path and adore his hard work.",
+    name: "Shivam Singh",
+    designation: "Software Developer Engineer",
+    company: "LogicX",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
 ];
 
 const projects = [
